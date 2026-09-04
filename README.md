@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1h` sample updated in sync
 
-> **Sample on GitHub** · `XAUUSD_1h.csv` (927 rows, `2026-07-07` -> `2026-09-02`, 87.64 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/xauusd)** — **101,181** `1h` rows (full `1m`: 6,032,490), **11 timeframes**, `2009-02-24` -> `2026-09-02`.
+> **Sample on GitHub** · `XAUUSD_1h.csv` (924 rows, `2026-07-07` -> `2026-09-02`, 87.40 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/xauusd)** — **101,181** `1h` rows (full `1m`: 5,887,627), **11 timeframes**, `2009-02-24` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Gold / US Dollar · Metals | Gold / US Dollar · Metals |
 | Timeframes | `1h` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 1h rows | 927 | **101,181** |
-| Size | 87.64 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/xauusd) |
+| 1h rows | 924 | **101,181** |
+| Size | 87.40 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/xauusd) |
 | Period | `2026-07-07` -> `2026-09-02` | `2009-02-24` -> `2026-09-02` |
 | File | `XAUUSD_1h.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/xauusd) |
 | Coverage report | — | [XAUUSD coverage](https://getdata.finance/coverage/xauusd) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`XAUUSD_1h.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T19:00:00+00:00 | 4127.6 | 4128.43 | 4092.86 | 4114.75 | 75160 |
-| 2026-07-07T20:00:00+00:00 | 4114.75 | 4116.41 | 4104.18 | 4106.24 | 14976 |
-| 2026-07-07T22:00:00+00:00 | 4106.24 | 4111.3 | 4091.6 | 4096.66 | 16601.41726 |
 | 2026-07-07T23:00:00+00:00 | 4096.66 | 4105.92 | 4093.94 | 4096.63 | 22213 |
 | 2026-07-08T00:00:00+00:00 | 4096.63 | 4124.91 | 4094.92 | 4109.64 | 65076 |
+| 2026-07-08T01:00:00+00:00 | 4109.64 | 4115.92 | 4094.37 | 4109.3 | 92443 |
+| 2026-07-08T02:00:00+00:00 | 4109.3 | 4123.06 | 4103.87 | 4112.62 | 51143 |
+| 2026-07-08T03:00:00+00:00 | 4112.62 | 4129.22 | 4112.55 | 4121.58 | 39107 |
 
 **Last rows**
 
